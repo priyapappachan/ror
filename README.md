@@ -1,4 +1,4 @@
-ror
-===
+rorweb
+======
 
-Ruby on rails
+A test web app in Ruby on Rails
