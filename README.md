@@ -1,4 +1,4 @@
-rorweb
+ror
 ======
 
-A test web app in Ruby on Rails
+A web app in Ruby on Rails
